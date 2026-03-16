@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ApKuba Test App</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="test">Comprobar</string>
+    <string name="package_id">Id de la App Ej: cu.apkuba</string>
+    <string name="public_pem_key">Llave publica PEM</string>
+    <string name="buy">Comprar</string>
+    <string name="error_field_required">Este campo es necesario</string>
+    <string name="licence_uuid">UUID de la licencia</string>
+    <string name="result">Respuesta</string>
+    <string name="close">Cerrar</string>
+    <string name="open">Abrir</string>
+    <string name="error_package_id">El nombre del paquete no es válido</string>
+    <string name="error_pem_format">El formato de la llave PEM no es válida</string>
+    <string name="error_uuid_required">El Uuid no es válido</string>
+
+
+</resources>

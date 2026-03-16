@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="separator">@color/grey_900</color>
+    <color name="grey_900">#ff212121</color>
+    <color name="background_color_primary">#FFFFFF</color>
+    <color name="colorPrimary">@color/orange_500</color>
+    <color name="colorPrimaryDark">@color/orange_700</color>
+    <color name="colorPrimaryLight">@color/orange_200</color>
+
+    <color name="orange_100">#ffffe0b2</color>
+    <color name="orange_200">#ffffcc80</color>
+    <color name="orange_300">#ffffb74d</color>
+    <color name="orange_400">#ffffa726</color>
+    <color name="orange_50">#fffff3e0</color>
+    <color name="orange_500">#ffff9800</color>
+    <color name="orange_600">#fffb8c00</color>
+    <color name="orange_700">#fff57c00</color>
+    <color name="orange_800">#ffef6c00</color>
+    <color name="orange_900">#ffe65100</color>
+    <color name="orange_A100">#ffffd180</color>
+    <color name="orange_A200">#ffffab40</color>
+    <color name="orange_A400">#ffff9100</color>
+    <color name="orange_A700">#ffff6d00</color>
+</resources>
