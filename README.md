@@ -300,7 +300,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](https://opens
 
 🐛 Issues: [GitHub Issues](https://github.com/megashopcuba/testApkubaSDK/issues)
 
-📱 Aplicación de prueba: [Descargar](https://github.com/megashopcuba/testApkubaSDK/blob/master/app/release/app-release.apk)
+📱 Aplicación de prueba: [Descargar](https://github.com/megashopcuba/testApkubaSDK/blob/main/app/release/app-release.apk)
 
 Para los desarrolladores interesados en contribuir que se comuniquen para agregarlos como colaboradores:
 
